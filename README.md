@@ -1,6 +1,6 @@
 # kubernetes-up-and-running
 
-<hı> Introduction </h1>
+<h1> Introduction </h1>
 
 <p> Kubernetes is an open source orchestrator for deploying containerized applications. It
 was originally developed by Google, inspired by a decade of experience deploying
